@@ -29,4 +29,6 @@ Waku Community Forums: A place for users and developers to ask questions, share 
 
 Waku GitHub Repositories: The official Waku GitHub organization, featuring the source code and documentation for the product.
 
-We hope this documentation helps you get started with Waku. If you have any questions or need additional assistance, please don't hesitate to reach out to our community forums or developer documentation.
+We hope this documentation helps you get started with Waku.
+
+Wakies FC
